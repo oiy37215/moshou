@@ -33,7 +33,7 @@
             <key>zd_back.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{206,731},{55,55}}</string>
+                <string>{{425,679},{55,55}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -85,11 +85,11 @@
             <key>zd_gongji.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{87,915},{107,108}}</string>
+                <string>{{249,679},{107,108}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{107,108}}</string>
                 <key>sourceSize</key>
@@ -98,7 +98,7 @@
             <key>zd_gongji2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{20,805},{107,108}}</string>
+                <string>{{206,825},{107,108}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -111,11 +111,11 @@
             <key>zd_guaiwu_xuetiao.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{192,731},{69,12}}</string>
+                <string>{{212,807},{69,12}}</string>
                 <key>offset</key>
                 <string>{0,2}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{3,1},{69,12}}</string>
                 <key>sourceSize</key>
@@ -124,7 +124,7 @@
             <key>zd_guaiwu_xuetiaobk.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{166,889},{75,18}}</string>
+                <string>{{206,935},{75,18}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -150,7 +150,7 @@
             <key>zd_head_blue.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{166,805},{82,16}}</string>
+                <string>{{212,723},{82,16}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -163,7 +163,7 @@
             <key>zd_head_red.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,805},{129,16}}</string>
+                <string>{{188,825},{129,16}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -176,7 +176,7 @@
             <key>zd_jinbi.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{129,805},{104,35}}</string>
+                <string>{{212,617},{104,35}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -189,7 +189,7 @@
             <key>zd_jineng_bk.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,936},{84,83}}</string>
+                <string>{{283,935},{84,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -202,33 +202,33 @@
             <key>zd_kzq_close.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,617},{186,188}}</string>
-                <key>offset</key>
-                <string>{-1,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{9,10},{186,188}}</string>
-                <key>sourceSize</key>
-                <string>{206,208}</string>
-            </dict>
-            <key>zd_kzq_zx.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{184,805},{75,79}}</string>
+                <string>{{2,825},{184,188}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{75,79}}</string>
+                <string>{{11,10},{184,188}}</string>
                 <key>sourceSize</key>
-                <string>{75,79}</string>
+                <string>{206,208}</string>
+            </dict>
+            <key>zd_kzq_open.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,617},{206,208}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{206,208}}</string>
+                <key>sourceSize</key>
+                <string>{206,208}</string>
             </dict>
             <key>zd_play.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{192,674},{55,55}}</string>
+                <string>{{368,679},{55,55}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -254,11 +254,11 @@
             <key>zd_stop.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{192,617},{56,55}}</string>
+                <string>{{188,956},{56,55}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{56,55}}</string>
                 <key>sourceSize</key>
@@ -274,7 +274,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4766536cc987b6b9aac6b0115f515ada$</string>
+            <string>$TexturePacker:SmartUpdate:766b75ea1a4f3a5310d8545fac2cb961$</string>
             <key>textureFileName</key>
             <string>zd_xitong.png</string>
         </dict>

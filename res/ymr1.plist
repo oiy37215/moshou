@@ -23,25 +23,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>iei0002.png</key>
-			<dict>
-				<key>width</key>
-				<integer>355</integer>
-				<key>height</key>
-				<integer>361</integer>
-				<key>originalWidth</key>
-				<integer>355</integer>
-				<key>originalHeight</key>
-				<integer>361</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>274</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 		</dict>
 		<key>metadata</key>
 		<dict>

@@ -339,11 +339,6 @@
                 <file name="src/ZhanDouXiTong/JiNengKuangSprite.js"/>
                 <file name="src/ZhanDouXiTong/RockerSprite.js"/>
                 <file name="src/jiaoSeANDguaiWu/JiaoSeSprite.js"/>
-                <file name="src/jiaoSeANDguaiWu/Enemy.js"/>
-                <file name="src/jiaoSeANDguaiWu/sqJiNengLuoJi.js"/>
-                <file name="src/jiaoSeANDguaiWu/ymrJiNengLuoJi.js"/>
-                <file name="src/jiaoSeANDguaiWu/fsJiNengLuoJi.js"/>
-                <file name="src/LoadingLayer.js"/>
                 <file name="main.js"/>
 
             </sources>

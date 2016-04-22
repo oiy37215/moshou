@@ -237,11 +237,6 @@
             "IsCustomSize": true,
             "FontSize": 14,
             "LabelText": "155",
-            "FontResource": {
-              "Type": "Normal",
-              "Path": "arial.ttf",
-              "Plist": ""
-            },
             "HorizontalAlignmentType": "HT_Center",
             "OutlineColor": {
               "G": 0,
@@ -266,7 +261,11 @@
               "ScaleX": 1.0,
               "ScaleY": 1.0
             },
-            "CColor": {},
+            "CColor": {
+              "R": 144,
+              "G": 238,
+              "B": 144
+            },
             "IconVisible": false,
             "PrePosition": {
               "X": 0.1119,
@@ -1261,7 +1260,6 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "arial.ttf",
         "zd_head_blue.png",
         "zd_head_red.png",
         "zd_xitong.plist",
