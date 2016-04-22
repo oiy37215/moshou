@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>111111111111111.png</key>
+			<key>huifu1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>666</integer>
+				<integer>50</integer>
 				<key>height</key>
-				<integer>272</integer>
+				<integer>50</integer>
 				<key>originalWidth</key>
-				<integer>666</integer>
+				<integer>50</integer>
 				<key>originalHeight</key>
-				<integer>272</integer>
+				<integer>50</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -23,20 +23,39 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>iei0002.png</key>
+			<key>huifu3.png</key>
 			<dict>
 				<key>width</key>
-				<integer>355</integer>
+				<integer>34</integer>
 				<key>height</key>
-				<integer>361</integer>
+				<integer>36</integer>
 				<key>originalWidth</key>
-				<integer>355</integer>
+				<integer>34</integer>
 				<key>originalHeight</key>
-				<integer>361</integer>
+				<integer>36</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>52</integer>
 				<key>y</key>
-				<integer>274</integer>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>huifu2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>106</integer>
+				<key>height</key>
+				<integer>105</integer>
+				<key>originalWidth</key>
+				<integer>106</integer>
+				<key>originalHeight</key>
+				<integer>105</integer>
+				<key>x</key>
+				<integer>88</integer>
+				<key>y</key>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -48,9 +67,9 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>textureFileName</key>
-			<string>ymr1.png</string>
+			<string>huifu0.png</string>
 			<key>realTextureFileName</key>
-			<string>ymr1.png</string>
+			<string>huifu0.png</string>
 			<key>size</key>
 			<string>{1024,1024}</string>
 		</dict>

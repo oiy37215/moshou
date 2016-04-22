@@ -4,39 +4,20 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>111111111111111.png</key>
+			<key>4.png</key>
 			<dict>
 				<key>width</key>
-				<integer>666</integer>
+				<integer>125</integer>
 				<key>height</key>
-				<integer>272</integer>
+				<integer>120</integer>
 				<key>originalWidth</key>
-				<integer>666</integer>
+				<integer>125</integer>
 				<key>originalHeight</key>
-				<integer>272</integer>
+				<integer>120</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
 				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>iei0002.png</key>
-			<dict>
-				<key>width</key>
-				<integer>355</integer>
-				<key>height</key>
-				<integer>361</integer>
-				<key>originalWidth</key>
-				<integer>355</integer>
-				<key>originalHeight</key>
-				<integer>361</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>274</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -48,9 +29,9 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>textureFileName</key>
-			<string>ymr1.png</string>
+			<string>wudi0.png</string>
 			<key>realTextureFileName</key>
-			<string>ymr1.png</string>
+			<string>wudi0.png</string>
 			<key>size</key>
 			<string>{1024,1024}</string>
 		</dict>
